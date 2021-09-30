@@ -18,7 +18,7 @@
 ## Term Project
 [Team-S Project](https://purva8852.github.io/GVSU-CIS641-Team-S/ "Click for more details")
 
-As part of course 641- System analysis and design we are building an application for Grand Valley state university students for ease of travel. Many people in university are from different locatios, countries. So for the ease of transportation and connecting people from same university this application is designed. The application will only work for those whoes GVSU email id is valid and active. User list includes staff of GVSU office, professors, students from bachelors, masters and PhD. This application would help student to connect and travel safely. When considering nature and environment ride sharing helps in reduction of air pollution. This thought can be extendable to all other university students but for now we are going to implement it only for GVSU. 
+As part of course 641- System analysis and design we are building an application for Grand Valley state university students for ease of travel. Many people in university are from different locations, countries. So for the ease of transportation and connecting people from same university this application is designed. The application would work only for GVSU students whose GVSU email id is valid and active. User list includes staff of GVSU office, professors, students from bachelors, masters and PhD. This application would help student to connect and travel safely. When considering nature and environment, ride sharing helps in reduction of air pollution. This thought can be extendable to all other university students but for now we are going to implement it only for GVSU. 
 
 ## Personal Interest
 * Cooking & Listening Music
